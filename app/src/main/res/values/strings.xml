@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">News App Java</string>
+    <string name="Select">Select Country</string>
+<!--    <string name="api_key">48494935d45f40aea198438aae17b21f</string>-->
+    <string name="api_key">237466f9978e4954979c04296bb9f512</string>
+    <string name="country">country</string>
+</resources>
